@@ -11,13 +11,13 @@ Click on the project name to explore the live demo 🌐
 
 - 🌐 **[Portfolio Website](https://mahajankirti515.vercel.app/)**  
   Personal developer portfolio showcasing my skills, projects, and experience built with modern web technologies.
+  
+  - 🍅 **[Tomato – Food Delivery App](https://food-del-chi-snowy.vercel.app/)**  
+  A Swiggy-inspired food delivery app built with React for learning purposes.
 
 - 🍕 **[Vingo One – Food Delivery App](https://vingo-8hz8.onrender.com/)**  
   Advanced Swiggy/Zomato-style food delivery platform built with the MERN stack, featuring live order tracking and a modern user experience.
-
-- 🍅 **[Tomato – Food Delivery App](https://food-del-chi-snowy.vercel.app/)**  
-  A Swiggy-inspired food delivery app built with React for learning purposes.
-
+  
 - 🤖 **[Virtual Assistant](https://virtual-assistent.vercel.app/)**  
   Voice-enabled assistant web app with AI-like interactions.
   
