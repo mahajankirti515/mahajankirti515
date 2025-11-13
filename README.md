@@ -20,10 +20,7 @@ Click on the project name to explore the live demo 🌐
 
 - 🤖 **[Virtual Assistant](https://virtual-assistent.vercel.app/)**  
   Voice-enabled assistant web app with AI-like interactions.
-
-- 💬 **[ChatGPT AI Clone](https://chatgpt-ai-rlqs.vercel.app/)**  
-  A mini AI chatbot UI inspired by ChatGPT.
-
+  
 - 🛍️ **[V-Shop – E-commerce Website](https://ecommerse-website-hazel.vercel.app/)**  
   Modern React-based e-commerce site with cart functionality.
 
