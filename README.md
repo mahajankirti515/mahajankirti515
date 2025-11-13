@@ -1,12 +1,3 @@
-<!-- Animated header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="animated header" width="200"/>
-</p>
-
-<!-- Typing animation (change lines in the URL to customize) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=0A66C2&center=true&width=600&lines=Hey+there!+I'm+Kirti+Mahajan;Frontend+Developer+(MERN+Stack)" alt="typing animation"/>
-</p>
 
 
 **Frontend Developer (MERN Stack)** — building clean, user-friendly web apps with **React**, **Tailwind**, **Node.js**, and **MongoDB**.
